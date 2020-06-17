@@ -1,0 +1,13 @@
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\bin\Debug\FIS.exe.config
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\bin\Debug\FIS.exe
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\bin\Debug\FIS.pdb
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.csprojResolveAssemblyReference.cache
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.Properties.Resources.resources
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.csproj.GenerateResource.Cache
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.exe
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.pdb
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.RezervaBilete.resources
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.AdaugaBilete.resources
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.LogIn.resources
+C:\Users\edico\OneDrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.Register.resources
+C:\Users\edico\OneDrive\documente\visual studio 2012\Projects\FIS\FIS\obj\Debug\FIS.Curse.resources
