@@ -1,0 +1,6 @@
+----------------------------
+Nume Echipa: Dinamo
+Nume antrenor: Marcel
+Numar Persoane: 23
+Club: Real-Madrid
+Localitate: Timisoara

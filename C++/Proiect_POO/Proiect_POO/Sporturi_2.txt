@@ -1,0 +1,42 @@
+Echipele de volei sunt: 
+
+----------------------------
+Nume Echipa: Barca
+Nume antrenor: Stelian
+Numar Persoane: 18
+Loc de intalnire: Plaja
+Categorie: Copii
+----------------------------
+Nume Echipa: Steaua
+Nume antrenor: Contrescu
+Numar Persoane: 21
+Loc de intalnire: Iarba
+Categorie: Adulti
+----------------------------
+Nume Echipa: UPT
+Nume antrenor: Messi
+Numar Persoane: 30
+Loc de intalnire: Sala
+Categorie: Adolescenti
+
+
+Echipele de baschet sunt: 
+
+----------------------------
+Nume Echipa: Real_Madrid
+Nume antrenor: Ronescu
+Numar Persoane: 13
+Club: Barcelona
+Localitate: Bradet
+----------------------------
+Nume Echipa: Fiorentina
+Nume antrenor: Bota
+Numar Persoane: 21
+Club: BC_Ghigi
+Localitate: Ghighiseni
+----------------------------
+Nume Echipa: Dinamo
+Nume antrenor: Marcel
+Numar Persoane: 23
+Club: Real-Madrid
+Localitate: Timisoara

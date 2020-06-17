@@ -1,0 +1,6 @@
+Volei	Barca		18		Plaja	Copii		Stelian
+Volei	Steaua		21		Iarba	Adulti		Contrescu
+Volei	UPT			30		Sala	Adolescenti	Messi
+Baschet	Real_Madrid	13	Barcelona	Ronescu	Bradet
+Baschet	Dinamo		23	Real-Madrid	Marcel	Timisoara
+Baschet Fiorentina	21	BC_Ghigi	Bota	Ghighiseni
