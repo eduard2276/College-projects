@@ -1,0 +1,9 @@
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\bin\Debug\Proiect_BD.exe.config
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\bin\Debug\Proiect_BD.exe
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\bin\Debug\Proiect_BD.pdb
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\obj\Debug\Proiect_BD.csprojResolveAssemblyReference.cache
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\obj\Debug\Proiect_BD.Form1.resources
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\obj\Debug\Proiect_BD.Properties.Resources.resources
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\obj\Debug\Proiect_BD.csproj.GenerateResource.Cache
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\obj\Debug\Proiect_BD.exe
+c:\users\edico\onedrive\documente\visual studio 2012\Projects\Proiect_BD\Proiect_BD\obj\Debug\Proiect_BD.pdb
